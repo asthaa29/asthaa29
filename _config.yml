@@ -1,16 +1,19 @@
-title: <p align="center"> Astha Agarwal <p>
+title: <p align="center"> Astha Agarwal </p>
 logo: /assets/img/Profile.jpg
-description: Data and AI Consultant at Microsoft
+
+description:
   <p align="center">
   <a href="https://www.linkedin.com/in/asthaagarwal/">LinkedIn</a> |
   <a href="https://github.com/asthaa29/">GitHub</a>
   
-  <br>   
+  <br>  
+  Data and AI Consultant at Microsoft
   I'm working on Data Science, ML Ops, Machine learning & NLP related problems.
   Working with Microsoft for last 2 years
   Worked in Machine Learning and AI for last 4 years
   <br>
   </p>
-  
-show_downloads: true
+
+
+
 theme: jekyll-theme-minimal
